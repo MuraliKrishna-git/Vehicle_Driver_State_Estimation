@@ -143,7 +143,6 @@ This project is open-source and available under the GPU 3.0 License.
 
 ## 👤 **Author**
 
-**[Your Name]**  
 GitHub: [@Murali Krishna L](https://github.com/MuraliKrishna-git)
 
 ---

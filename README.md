@@ -1,9 +1,8 @@
 # Vehicle_Driver_State_Estimation
 
-Here is the entire content you requested in **Markdown** format for your GitHub repository:
+---
 
-```markdown
-# 🚗 **Drowsiness Detection, rPPG Heart Rate & Yaw Angle Detection** 🎥
+## 🚗 **Drowsiness Detection, rPPG Heart Rate & Yaw Angle Detection** 🎥
 
 Welcome to the **Drowsiness Detection**, **Heart Rate Estimation** (via rPPG), and **Yaw Angle Detection** project! This Python-based system uses **computer vision**, **signal processing**, and **real-time visualization** to analyze your facial movements, detect drowsiness (EAR), estimate your heart rate (rPPG), and track your head position (yaw angle) using only a webcam.
 
@@ -138,14 +137,14 @@ project_directory/
 
 ## 📜 **License**
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the GPU 3.0 License.
 
 ---
 
 ## 👤 **Author**
 
 **[Your Name]**  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@Murali Krishna L](https://github.com/MuraliKrishna-git)
 
 ---
 
@@ -161,7 +160,3 @@ GitHub: [@your-username](https://github.com/your-username)
 ---
 
 **Feel free to contribute, and feel free to open issues or pull requests.** Let's make driving and health monitoring safer with real-time feedback!
-
-```
-
-This README file includes all the details you requested, including explanations, setup instructions, and future enhancement ideas, and it's formatted in a colorful and engaging way to attract attention to your GitHub repository. You can copy and paste this content directly into your `README.md` file for your project.
